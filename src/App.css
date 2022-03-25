@@ -1,0 +1,133 @@
+.App{
+  background-color: #23252C;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.header-el{
+  font-size: 100px;
+  color: white;
+  background-color: #23252C;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.img-el{
+  margin-top: 30px;
+  width:317 px;
+  height: 317 px;
+  border-radius: 5px;
+  background-color: #1A1B21;
+}
+
+.mainContent-container{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1A1B21;
+  width: 332px;
+  height: 430px;
+  margin: 0 auto;
+}
+
+.mainContent{
+  display: flex;
+  flex-direction: column;
+  width: 332px;
+  height: 350px;
+  text-align: center;
+  margin-bottom: 180px;
+  background-color: #1A1B21;
+}
+
+.mainContent h3{
+  color: white;
+  margin-bottom: 0px;
+  font-family: 'Poppins', sans-serif;
+}
+.mainContent h5{
+  color: white;
+  margin-top: 10px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.mainContent h6{
+  color: white;
+  margin-top: 0px;
+  font-family: 'Poppins', sans-serif;
+  
+}
+button{
+  width: 300px;
+  height:40px;
+  padding: 10px;
+  padding-bottom: 5px;
+  font-size: 18px;
+  background-color: #5093E2;
+  color: white;
+  font-weight: bold;
+  box-shadow:(16px 16px 10px black);
+  border: 1px;
+  border-radius: 8px;
+}
+
+.about-me{
+  text-align: left;
+  margin-left: 20px;
+  padding-top: 40px;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 1px;
+
+}
+
+.p-about-me{
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 1px;
+  padding-top: 0px;
+  color: white;
+  font-size: 12px;
+
+}
+
+.interests{
+  text-align: left;
+  margin-left: 20px;
+  padding-top: 20px;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 1px;
+  
+}
+
+.p-interests{
+  text-align: left;
+  margin-top: 1px;
+  padding-top: 0px;
+  color: white;
+  font-size: 12px;
+  padding-bottom: 0px;
+}
+
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #161619;
+  width: 332px;
+  height: 40px;
+  margin: 0 auto;
+  padding-bottom: 10px;
+  padding-top: 0px;
+
+}
+
+.fb{
+  height: 50px;
+  width: 50px;
+  margin-top: 12px;
+  border-radius: 1px;
+}
