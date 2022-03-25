@@ -72,6 +72,7 @@ button{
   box-shadow:(16px 16px 10px black);
   border: 1px;
   border-radius: 8px;
+  cursor: pointer;
 }
 
 .about-me{
