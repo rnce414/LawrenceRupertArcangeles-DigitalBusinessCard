@@ -16,7 +16,7 @@
 
 .img-el{
   margin-top: 30px;
-  width:310 px;
+  width:317 px;
   height: 317 px;
   border-radius: 5px;
   background-color: #1A1B21;
@@ -28,7 +28,7 @@
   justify-content: center;
   align-items: center;
   background-color: #1A1B21;
-  width: 332px;
+  width: 342px;
   height: 430px;
   margin: 0 auto;
 }
@@ -36,7 +36,7 @@
 .mainContent{
   display: flex;
   flex-direction: column;
-  width: 332px;
+  width: 342px;
   height: 350px;
   text-align: center;
   margin-bottom: 180px;
@@ -118,7 +118,7 @@ button{
   justify-content: center;
   align-items: center;
   background-color: #161619;
-  width: 332px;
+  width: 342px;
   height: 40px;
   margin: 0 auto;
   padding-bottom: 10px;
